@@ -1,0 +1,1 @@
+# Terraform temporary plan files are stored here

@@ -1,0 +1,12 @@
+# IDE
+**/.idea
+**/.DS_Store
+
+# terraform
+**/.terraform
+**/logs/*.log
+**/*.out
+**/terraform.tfstate.d
+
+# debug
+.init.debug.sh
